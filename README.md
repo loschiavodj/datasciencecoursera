@@ -1,0 +1,2 @@
+# datasciencecoursera
+This repo was created for the Corsera.org free online course titled: "The Data Scientist's Toolbox".  This course introduces the main tools and ideas in the data scientists toolbox. It gives an overview of the data, questions, and tools that data analysts and data scientists use. There are two components to the course. 1) A conceptual introduction to the ideas behind turning data into actionable knowledge. 2) A practical introduction to the tools that will be used in the program like version control, markdown, git, Github, R, and Rstudio. 
